@@ -1,2 +1,2 @@
-# upgraded-octo-adventure
+# Blogs
 This project is about Blogs
